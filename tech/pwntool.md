@@ -1,5 +1,7 @@
 #### pwntool mini cheatsheet
 
+#### 1. Getting started
+
 1.3.1 Making Connections
 1.3.2 Packing Integers
 1.3.3 Setting the Target Architecture and OS
@@ -34,3 +36,24 @@ True
 ```
 
 ##### 1.3.5 Assembly and Disassembly
+
+
+
+#### 2. Next
+
+```
+2.6 pwnlib.constants — Easy access to header file constants
+2.8 pwnlib.context — Setting runtime variables
+2.17 pwnlib.log — Logging stuff
+2.18 pwnlib.memleak — Helper class for leaking memory
+2.21 pwnlib.replacements — Replacements for various functions
+2.22 pwnlib.rop — Return Oriented Programming
+2.23 pwnlib.runner — Running Shellcode
+2.24 pwnlib.shellcraft — Shellcode generation
+2.34 pwnlib.util.hashes — Hashing functions
+2.36 pwnlib.util.lists — Operations on lists
+```
+
+#### refs
+
+- pwntool pdf doc
