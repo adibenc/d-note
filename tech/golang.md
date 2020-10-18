@@ -156,12 +156,13 @@ func main() {
 
 Next list / cheats
 
-1. var types
-2. Compiling
-3. Channel
-4. Boilerplate
-5. Http
-6. File read & write
+1. Goroutine cases
+2. var types
+3. Compiling
+4. Channel
+5. Boilerplate
+6. Http
+7. File read & write
 
 ## refs
 
