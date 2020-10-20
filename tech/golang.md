@@ -1,6 +1,6 @@
 # Golang
 
-===
+[TOC]
 
 1. Hello & packages
 2. Func, loop, slice maps
@@ -163,8 +163,11 @@ Next list / cheats
 5. Boilerplate
 6. Http
 7. File read & write
+8. Defer, panic, recover
 
 ## refs
 
 - http://www.cheat-sheets.org/saved-copy/go-lang-cheat-sheet-master.20181212/golang_refcard.pdf
 - https://tour.golang.org/
+- https://golangdocs.com/panic-defer-recover-in-golang
+- https://medium.com/benchkram/less-verbose-error-handling-in-golang-10e2679707a2

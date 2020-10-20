@@ -1,6 +1,6 @@
-#### pwntool mini cheatsheet
+# Pwntool mini cheatsheet
 
-#### 1. Getting started
+## 1. Getting started
 
 1.3.1 Making Connections
 1.3.2 Packing Integers
@@ -10,7 +10,7 @@
 1.3.6 Misc Tools
 1.3.7 ELF Manipulation
 
-##### 1.3.1 Making Connections
+### 1.3.1 Making Connections
 
 ```
 >>> conn = remote('ftp.ubuntu.com',21)
@@ -24,7 +24,7 @@
 >>> conn.close()
 ```
 
-##### 1.3.2 Packing Integers
+### 1.3.2 Packing Integers
 
 ```
 >>> import struct
@@ -35,11 +35,11 @@ True
 True
 ```
 
-##### 1.3.5 Assembly and Disassembly
+### 1.3.5 Assembly and Disassembly
 
 
 
-#### 2. Next
+## Next
 
 ```
 2.6 pwnlib.constants — Easy access to header file constants
@@ -54,6 +54,6 @@ True
 2.36 pwnlib.util.lists — Operations on lists
 ```
 
-#### refs
+## refs
 
 - pwntool pdf doc

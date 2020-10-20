@@ -1,6 +1,6 @@
-### radare2 cheat
+# radare2 cheat
 
-#### cheat
+## cheat
 ```
 basic @https://zachgrace.com/
 
@@ -52,7 +52,7 @@ V
 
 ```
 
-#### refs
+## refs
 - https://zachgrace.com/cheat_sheets/radare2/
 - https://aboureada.com/security/radare2-cheat-sheet/
 - https://ben.the-collective.net/my-notes/radare2-cheatsheet/

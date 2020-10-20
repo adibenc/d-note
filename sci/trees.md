@@ -6,15 +6,16 @@ Tech s/w
 
 1. Asem
 2. mangga
-3. kurma
-4. palm
-5. Kelapa
-6. Delima
-7. pepaya
-8. Singkong
-9. Salam
-10. Cherry
-11. Jambu
+3. sawit
+4. kurma
+5. palm
+6. Kelapa
+7. Delima
+8. pepaya
+9. Singkong
+10. Salam
+11. Cherry
+12. Jambu
 
 ## Next
 

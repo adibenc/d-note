@@ -1,4 +1,4 @@
-#### 10 vim
+# 10 vim
 ```bash
 :!q - close no save
 :w - write file
@@ -15,7 +15,7 @@ G - go to the last line of the document
 
 
 
-#### refs
+## refs
 
 - https://superuser.com/questions/335944/vim-in-osx-how-to-do-page-up-page-down-go-to-eol-through-a-vim-file-opened-in-t
 - https://vim.rtorr.com/
