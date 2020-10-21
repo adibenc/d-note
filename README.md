@@ -13,6 +13,7 @@ next list / cheats
    2. AI
    3. Numpy
    4. Statistic
+   5. Basic crypto python
 2. Tech h/w
    1. Basic
 
