@@ -18,6 +18,10 @@ https://hackerone.com/reports/486732
 
 ## Summary
 
+XXE = XML External Entities
+
+
+
 ## Next
 
 1. a
