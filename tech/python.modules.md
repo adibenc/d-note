@@ -19,7 +19,6 @@ b'7a616d'
 ```
 
 pwntool
-
 numpy
 
 
@@ -28,9 +27,12 @@ numpy
 
 ## Dev
 
+```
 json
-
+math
 numpy
+statistics
+```
 
 
 

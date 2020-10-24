@@ -14,6 +14,7 @@ next list / cheats
    3. Numpy
    4. Statistic
    5. Basic crypto python
+   6. Py Glossary
 2. Tech h/w
    1. Basic
 
