@@ -1,14 +1,125 @@
 # Golang
 
+
 [TOC]
 
-1. Hello & packages
-2. Func, loop, slice maps
-3. Structs, Interface & structs embedding
-4. Errors
-5. Goroutines
+## Research
+## Basic
+### Fundamental
 
-====
+[wiki] Go was designed at [Google](https://en.wikipedia.org/wiki/Google) in 2007 to improve [programming productivity](https://en.wikipedia.org/wiki/Programming_productivity) in an era of [multicore](https://en.wikipedia.org/wiki/Multi-core_processor), [networked](https://en.wikipedia.org/wiki/Computer_network) [machines](https://en.wikipedia.org/wiki/Computer) and large [codebases](https://en.wikipedia.org/wiki/Codebase).[[22\]](https://en.wikipedia.org/wiki/Go_(programming_language)#cite_note-22) The designers wanted to address criticism of other languages in use at [Google](https://en.wikipedia.org/wiki/Google), but keep their useful characteristics:[[23\]](https://en.wikipedia.org/wiki/Go_(programming_language)#cite_note-23)
+
+- [static typing](https://en.wikipedia.org/wiki/Static_typing) and [run-time](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase)) efficiency (like [C](https://en.wikipedia.org/wiki/C_(programming_language))),
+- [readability](https://en.wikipedia.org/wiki/Readability) and [usability](https://en.wikipedia.org/wiki/Usability) (like [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) or [JavaScript](https://en.wikipedia.org/wiki/JavaScript)),[[24\]](https://en.wikipedia.org/wiki/Go_(programming_language)#cite_note-24)
+- high-performance [networking](https://en.wikipedia.org/wiki/Computer_network) and [multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing).
+
+[doc] https://golang.org/doc/
+
+### Pattern
+
+Goroutines [https://www.youtube.com/watch?v=f6kdp27TYZs]
+
+[https://github.com/adityamenon/Google-IO_2012_Go-Concurrency-Patterns]
+
+1. Independent execution
+2. not equal to parallelism, but concurrency enables parallelism
+3. it is not a thread, instead goroutines are multiplexed dynamicaly onto threads as needed to keep all the goroutines running
+
+Channels : a channel in go provides a connection between two goroutines, allowing them to communicate.
+
+Generator : function that returns a channel. a "Pattern".
+
+Multiplexing : **fanIn func**. makes channels communicating or run independently
+
+select : switch-like to control channel communication. except it blocks until a communication can proceed. Just like await in javascript but with condition of channel must be proccess-able (the **one channel** that is ready will be executed first). this gives you way to non-blocking communication. **example** : fanIn func in select statement.
+
+No locks, no condition variables, no callbacks.
+
+### Why
+
+1. System software
+
+2. Concurrency
+
+   1. not equal to parallelism, but concurrency enables parallelism
+   2. it is not a thread,
+
+3. In just few simple transformations, go have concurrency primitives that able to convert a
+
+   - slow, sequential, failure sensitive
+
+     to program that is
+
+   - fast, concurrent, replicated, robust
+
+4. aa
+
+### Why not
+
+1. Government project ?
+2. I just know PHP to make website ?
+
+### Libraries
+
+1. basic utilities
+   1. cobra : go cli tools
+2. web
+   1. viper
+   2. routing : chi
+   3. jwt-go
+   4. ozzo-validation
+3. db : 
+   1. go-pg
+   2. go-mysql
+4. tracker
+   1. Logrus
+5. mail
+   1. gomail
+   2. 
+
+### 10 common cases
+
+1. a
+
+### 30 Common operations
+
+1. IO
+   1. cli stdin / stdout
+   2. http request
+2. channeling
+3. goroutine
+
+### 10 products implementation
+### Official Doc & 3 refs
+## Production
+1. Basic api project skeleton & boilerplate
+
+2. Basic api & frontend pluggable project skeleton & boilerplate
+
+### Deploying
+## FE
+### Web HTML
+### Desktop
+### CLI
+## Common cases
+1. object to JSON, JSON to object
+
+   ```go
+   
+   ```
+
+2. file system operations
+   ```go
+   
+   ```
+
+3. db operations
+   ```go
+   
+   ```
+   
+
+
 
 ## 1. Hello & packages
 
