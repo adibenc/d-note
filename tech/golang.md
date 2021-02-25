@@ -15,15 +15,16 @@
 
 [doc] https://golang.org/doc/
 
-### Pattern
+### Pattern : Concurrency
 
 Goroutines [https://www.youtube.com/watch?v=f6kdp27TYZs]
 
 [https://github.com/adityamenon/Google-IO_2012_Go-Concurrency-Patterns]
 
 1. Independent execution
-2. not equal to parallelism, but concurrency enables parallelism
-3. it is not a thread, instead goroutines are multiplexed dynamicaly onto threads as needed to keep all the goroutines running
+2. Concurrency goal is not paralellism, but good structure
+3. not equal to parallelism, but concurrency enables parallelism
+4. it is not a thread, instead goroutines are multiplexed dynamicaly onto threads as needed to keep all the goroutines running
 
 Channels : a channel in go provides a connection between two goroutines, allowing them to communicate.
 
