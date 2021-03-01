@@ -91,6 +91,9 @@ No locks, no condition variables, no callbacks.
 3. goroutine
 
 ### 10 products implementation
+
+1. https://en.wikipedia.org/wiki/Go_(programming_language)#Applications
+
 ### Official Doc & 3 refs
 ## Production
 1. Basic api project skeleton & boilerplate
