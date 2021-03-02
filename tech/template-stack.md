@@ -1,4 +1,4 @@
-# Golang
+# Lang
 
 
 [TOC]
