@@ -79,6 +79,14 @@ openssl
 subprocess
 ```
 
+## Next march 2021
+
+```
+asyncio
+task_bg
+redis
+```
+
 
 
 ## refs

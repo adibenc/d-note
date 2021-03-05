@@ -50,14 +50,31 @@
 
 1. https://en.wikipedia.org/wiki/List_of_Python_software
 
-### Official Doc & 3 refs
-## Production
-1. Basic api project skeleton & boilerplate
+### Official Doc / refs
 
-2. Basic api & frontend pluggable project skeleton & boilerplate
+1. https://www.python.org/doc/
+2. https://docs.djangoproject.com/
+3. https://flask.palletsprojects.com/en/1.1.x/
+
+## Production
+1. Basic api project skeleton & boilerplate : github
+
+2. Basic api & frontend pluggable project skeleton & boilerplate : github
 
 ### Deploying
+
+#### Heroku - python web app
+
+1. use heroku cli, or CI from github / gitlab
+2. https://devcenter.heroku.com/articles/python-support
+3. https://devcenter.heroku.com/articles/kafka-on-heroku#kafka-concepts
+
+#### Docker, VPS - cli app, challenge, etc
+
+1. use Docker or use py std lib to listen at certain port.
+
 ## FE
+
 ### Web HTML
 ### Desktop
 ### CLI
