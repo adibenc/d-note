@@ -1,4 +1,4 @@
-# Python - Flask
+# Python - Django
 
 
 [TOC]
@@ -11,16 +11,17 @@
 
 ### Concepts
 
-1. Microfw
-2. [WSGI](https://en.wikipedia.org/wiki/WSGI)
-3. Venv
+1. [WSGI](https://en.wikipedia.org/wiki/WSGI)
+2. Venv
+3. Pattern : MVC
+4. Server arrangements : flup, fastcgi
 
 ### Why
 
-1. Simple, not so steep learning curve
-2. Beautiful
+1. Beautiful
 3. Scalable, small to large
 4. 100% [WSGI] 1.0 compliant
+4. Core framework features
 
 ### Why don't
 
@@ -30,26 +31,9 @@
 
 ### Libraries
 
-#### Flask-*
+#### django-*
 
-1. Flask
-2. Flask-Assets
-3. Flask-Compress
-4. Flask-Login
-5. Flask-Mail
-6. Flask-Migrate
-7. Flask-RQ
-8. Flask-Script
-9. Flask-SQLAlchemy
-10. Flask-SSLify
-11. Flask-WTF
-
-#### Standard py app
-
-1. Jinja2
-2. psycopg2
-3. WTForms
-4. SQLAlchemy
+1. standard @doc
 
 ### 10 common cases
 
@@ -62,20 +46,25 @@
 
 ### 10 products implementation
 
-1. [Linkedin](https://www.youtube.com/watch?v=OXN3wuHUBP0#t=46) - 
-2. [Pinterest](https://www.quora.com/What-challenges-has-Pinterest-encountered-with-Flask/answer/Steve-Cohen?srid=hXZd&share=1)
-3. other ?
+[source](http://fearlessflyer.com/20-creative-websites-running-django/)
+
+1. Dropbox
+2. Quora
+3. Pinterest ?
+4. Instagram
+5. Reddit ?
+6. PBS ?
+7. Washington Times ?
 
 ### Official Doc / refs
 
-1. https://www.python.org/doc/
-2. https://docs.djangoproject.com/
-3. https://flask.palletsprojects.com/en/1.1.x/
+1. https://docs.djangoproject.com/
 
 ## Production
-1. Basic api project skeleton & boilerplate : [github](https://github.com/adib-enc/flask-base-dib)
+1. Basic api project skeleton & boilerplate : #todo
+2. Basic api & frontend pluggable project skeleton & boilerplate : #todo
 
-2. Basic api & frontend pluggable project skeleton & boilerplate : [github](https://github.com/adib-enc/flask-base-dib)
+https://github.com/DrkSephy/django-hackathon-starter/
 
 ### Deploying
 
@@ -92,20 +81,19 @@
 ## FE
 
 ### Web HTML
+
+- js f/ws
+- django template engine
+
 ### Desktop
 ### CLI
 ## Common cases
 1. object to JSON, JSON to object
 
    ```python
-   import json
-   # dict to json string
-   jsonString = json.dumps({"key":"value"})
-   
-   # json string to dict
-   dicData = json.load('{"key":"value"}')
+   #todo
    ```
-
+   
 2. file upload
    ```python
    #todo
