@@ -36,7 +36,8 @@
 
 1. tool : markdown
 2. klasifikasi
-3. template - [link](https://gist.github.com/mlafeldt/01953b48b0be5fea34c11a8a47d1e7f4)
+3. [A Blameless Post-Mortem](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+4. template - [link](https://gist.github.com/mlafeldt/01953b48b0be5fea34c11a8a47d1e7f4)
 
 ### RCA step
 
@@ -71,7 +72,7 @@ https://sharpend.io/on-finding-root-causes/
 
 ### output
 
-1. Requirement document
+1. Re Requirement document
 
 ## Development
 
