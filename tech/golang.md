@@ -3,6 +3,23 @@
 
 [TOC]
 
+## Weekly
+
+### W1
+This is not a week where i started golang learning from zero.
+1. Templating
+	- Concate
+	- Functions & var mapping
+    	- {{ . }}
+    	- {{ $var }}
+	- Func pipeline
+    	- {{ $var | f1 | f2 | f2 }}
+	- https://github.com/GoesToEleven/golang-web-dev
+	- https://docs.studygolang.com/pkg/text/template/
+	- https://golangdocs.com/templates-in-golang
+2. x
+
+
 ## Research
 ## Basic
 ### Fundamental
