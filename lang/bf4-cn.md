@@ -2,34 +2,35 @@
 
 by @stevob6609
 
-0:01 我装好C4了。我把C4安好。
-1:00 这个是你的，快拿去。
-1:29 手雷去！我要手雷丢出去！
-1:58 你的医生来了，快拿好。
-2:35 烟去。
-2:54 我正在引爆C4了。
-2:58 你们必须攻击这的目标。
-3:08 你要防御这的目标。
-3:37 收到了。好的没问题。
-3:47 做不到。命令拒绝。不行。
-3:59 等待命令完毕。咱们的目标是什么？
-4:34 车辆投放吗？
-6:01 不！不成。办不到
-6:11 好的，没问题。了解。我能行。
-6:22 我需在要。
-6:36 我需这儿支援，火力支援！
-6:50 快跳出去车辆。跳车。
-7:02 跟我来！大家跟着我。
-7:14 上车来
-7:27 上！都起来！前进！
-7:39 你受伤了，我能给你治疗。我给你看看。
-8:09 你的车坏了，让我来修理。你想我来修理吗？
-8:31 医疗兵！我受伤了，我需要医疗兵。
-9:04 *请开车来，
-9:34 我的车坏了。
-14:00 发现了敌兵，我发现了一名敌兵，我看到了敌人。 I spotted enemy infentry, I spottrd one of enemy infentry, I saw the enemy.
-14:37 我看到了敌军坦克。 I saw the enemy tank.
-14:50 我看到了敌军车辆。 I saw the enemy car.
+1. 0:01 我装好C4了。我把C4安好。
+2. 1:00 这个是你的，快拿去。
+3. 1:29 手雷去！我要手雷丢出去！
+4. 1:58 你的医生来了，快拿好。
+5. 2:35 烟去。
+6. 2:54 我正在引爆C4了。
+7. 2:58 你们必须攻击这的目标。
+8. 3:08 你要防御这的目标。
+9. 3:37 收到了。好的没问题。
+10. 3:47 做不到。命令拒绝。不行。
+11. 3:59 等待命令完毕。咱们的目标是什么？
+12. 4:34 车辆投放吗？
+13. 6:01 不！不成。办不到
+14. 6:11 好的，没问题。了解。我能行。
+15. 6:22 我需在要。
+16. 6:36 我需这儿支援，火力支援！
+17. 6:50 快跳出去车辆。跳车。
+18. 7:02 跟我来！大家跟着我。
+19. 7:14 上车来
+20. 7:27 上！都起来！前进！
+21. 7:39 你受伤了，我能给你治疗。我给你看看。
+22. 8:09 你的车坏了，让我来修理。你想我来修理吗？
+23. 8:31 医疗兵！我受伤了，我需要医疗兵。
+24. 9:04 *请开车来，
+25. 9:34 我的车坏了。
+26. 14:00 发现了敌兵，我发现了一名敌兵，我看到了敌人。 I spotted enemy infentry, I spottrd one of enemy infentry, I saw the enemy.
+27. 14:37 我看到了敌军坦克。 I saw the enemy tank.
+28. 14:50 我看到了敌军车辆。 I saw the enemy car.
+
 
 0:01 Wǒ zhuāng hǎo C4 le. Wǒ bǎ C4 ān hǎo. 
 1:00 Zhège shì nǐ de, kuài ná qù. 
@@ -56,7 +57,7 @@ by @stevob6609
 8:31 Yīliáo bīng! Wǒ shòushāngle, wǒ xūyào yīliáo bīng. 9:04*Qǐng kāichē lái, 
 9:34 Wǒ de chē huàile. 
 14:00 Fāxiànle dí bīng, wǒ fāxiànle yī míng dí bīng, wǒ kàn dàole dírén. 
-	I spotted enemy infentry, I spottrd one of enemy infentry, I saw the enemy. 
+I spotted enemy infentry, I spottrd one of enemy infentry, I saw the enemy. 
 14:37 Wǒ kàn dàole dí jūn tǎnkè. I saw the enemy tank. 
 14:50 Wǒ kàn dàole dí jūn chēliàng. I saw the enemy car.
 
